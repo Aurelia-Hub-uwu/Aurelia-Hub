@@ -1,0 +1,21 @@
+Aurelia Hub Features:
+Roblox Bedwars:
+
+Premium Whitelist:
+Scaffold 
+Kill aura
+Target strafe
+ESP: Bed ESP, Player ESP, Generator ESP
+Long jump
+Anti aim
+Bed break aura
+Heavily nerfed fly
+
+Private Whitelist:
+Item spawning (No garuantee on how long it will last)
+Click TP
+Ender Pearl Fly
+FE Bring all (Probably will be patched soon)
+Arrow aura
+
+
